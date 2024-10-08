@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ib_medium_brush" type="id" />
+    <item name="ib_small_brush" type="id" />
+    <item name="ib_large_brush" type="id" />
+    <item name="fl_drawing_view_container" type="id" />
+
+</resources>
